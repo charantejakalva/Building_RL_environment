@@ -5,4 +5,4 @@ There are two types of Environments in RL a) Deterministic Environment b) Stocha
 Implementations of both Environments is available.
 
 An Agent is trained using one of the Tabular Method to reach the goal in the grid world.
-I have used Dynamic Programming Tabular method to guide agent to it's goal.
+I have used Dynamic Programming Tabular method to guide the agent to it's goal.
